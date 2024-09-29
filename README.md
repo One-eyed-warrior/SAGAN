@@ -2,4 +2,4 @@
 
 (kinda works but WIP still)
 
-Still trying to figure out the mode collapse issue
+Still trying to figure out the mode collapse issue, somehow seems to be related to batch sizes
